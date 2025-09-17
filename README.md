@@ -1,11 +1,12 @@
-# Random GitHub Finder — Repo & Beginner Issues
+# Random GitHub Repo & Beginner Issues Finder
 
 A small, polished Python desktop app that helps you discover **random GitHub repositories** and **beginner-friendly issues** with one click.  
 Built with `tkinter` and the GitHub REST API. Light and dark themes included.
 
 ---
-## Screenshots / Demo
+## Demo
 
+![github_Repo_random](https://github.com/user-attachments/assets/dfb33312-80dd-4903-8fa0-3306bc7eb54e)
 
 ---
 
@@ -148,3 +149,4 @@ sudo apt-get install python3-tk
 
 ---
 Thank You for reading!
+
